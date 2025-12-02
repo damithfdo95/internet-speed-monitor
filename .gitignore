@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+log.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.bat
+
+# Temporary files
+*.tmp
+*.bak
+
+# Speedtest cache
+.speedtest/
